@@ -32,6 +32,15 @@ img {
   width: 80%;
 }
 
+button{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  border-radius:10%;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  color: #4ECCA3;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
