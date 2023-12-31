@@ -1,3 +1,4 @@
+document.querySelector("button").addEventListener("click",function(){
 r1 = Math.floor(Math.random()*6)+1;
 var a = document.querySelector(".img1");
 a.setAttribute("src", "./dice"+r1+".png");
@@ -15,3 +16,5 @@ else if(r1<r2)
 else{
     document.querySelector("h1").innerHTML = "🚩 Draw! 🚩";
 }
+})
+
