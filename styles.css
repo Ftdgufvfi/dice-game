@@ -32,7 +32,7 @@ img {
   width: 80%;
 }
 
-button{
+.button{
   margin: 30px;
   font-family: 'Lobster', cursive;
   border-radius:10%;
